@@ -14,7 +14,7 @@ Examples of usage:
 
 Demo:
 ========
-<h1><a href="http://jsfiddle.net/natchkebiailia/vAX6G/1/" target="_blank">JSFiddle</a></h1>
+<h1><a href="http://jsfiddle.net/natchkebiailia/vAX6G/1/" target="_blank">JSFiddle</a></h1>(draw "Z" to unlock)
 
 Result:
 ========
