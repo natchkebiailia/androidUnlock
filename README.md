@@ -12,6 +12,10 @@ Examples of usage:
 <br>
 <pre>androidLock("012");</pre>
 
+Demo:
+========
+<h1><a href="http://jsfiddle.net/natchkebiailia/vAX6G/1/" target="_blank">JSFiddle</a></h1>
+
 Result:
 ========
 ![ScreenShot](https://raw.githubusercontent.com/natchkebiailia/androidUnlock/master/screenShot.png)
